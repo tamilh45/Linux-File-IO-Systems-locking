@@ -82,9 +82,12 @@ int main (int argc, char* argv[])
     return 0;
 }
 
+
 ```
 ## OUTPUT:
+
 ![alt text](<Screenshot from 2024-05-14 13-09-53.png>)
 
 # RESULT:
 The programs are executed successfully.
+
